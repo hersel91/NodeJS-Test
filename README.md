@@ -3,7 +3,7 @@
 
 How to use?
 in Linux terminal send this command: 
-cd /test
+
 npm start app.js
 
 DEFAULT PORT SSL: 3543
